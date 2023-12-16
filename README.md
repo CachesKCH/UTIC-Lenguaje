@@ -1,5 +1,6 @@
 # UTIC-Lenguaje
 
+Alumno: Gustavo Dominguez
 Repositorio de mis asignaciones de la materia de Lenguaje de Programacion
 
 ## [Practica 1](PRACTICA01)
