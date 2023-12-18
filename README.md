@@ -34,3 +34,11 @@ Repositorio de mis asignaciones de la materia de Lenguaje de Programacion
 1. [AppEstudiantePersona.java](PRACTICA05/AppEstudiantePersona.java)
 2. [Estudiante.java](PRACTICA05/Estudiante.java)
 3. [Persona.java](PRACTICA05/Persona.java)
+
+## [Practica 6](PRACTICA06)
+
+1. [Formulario01.java](PRACTICA06/Formulario01.java)
+2. [Formulario02.java](PRACTICA06/Formulario02.java)
+3. [Formulario03.java](PRACTICA06/Formulario03.java)
+4. [Formulario04.java](PRACTICA06/Formulario04.java)
+5. [Formulario05.java](PRACTICA06/Formulario05.java)
