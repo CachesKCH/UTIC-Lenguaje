@@ -28,3 +28,9 @@ Repositorio de mis asignaciones de la materia de Lenguaje de Programacion
 2. [Cliente.java](PRACTICA04/Cliente.java)
 3. [Persona.java](PRACTICA04/Persona.java)
 4. [Sueldo.java](PRACTICA04/Sueldo.java)
+
+## [Practica 5](PRACTICA05)
+
+1. [AppEstudiantePersona.java](PRACTICA05/AppEstudiantePersona.java)
+2. [Estudiante.java](PRACTICA05/Estudiante.java)
+3. [Persona.java](PRACTICA05/Persona.java)
