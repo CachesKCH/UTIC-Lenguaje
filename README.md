@@ -42,3 +42,8 @@ Repositorio de mis asignaciones de la materia de Lenguaje de Programacion
 3. [Formulario03.java](PRACTICA06/Formulario03.java)
 4. [Formulario04.java](PRACTICA06/Formulario04.java)
 5. [Formulario05.java](PRACTICA06/Formulario05.java)
+
+## [Practica 7 Netbeans (Carpeta de proyecto)](PRACTICA07)
+
+## [Practica 8 Netbeans (Carpeta de proyecto)](PRACTICA08)
+
