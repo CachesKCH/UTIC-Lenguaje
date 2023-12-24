@@ -47,3 +47,7 @@ Repositorio de mis asignaciones de la materia de Lenguaje de Programacion
 
 ## [Practica 8 Netbeans (Carpeta de proyecto)](PRACTICA08)
 
+## [Practica 10 Calculadora](PRACTICA10)
+
+1. [Calculadora.java](PRACTICA10/Calculadora.java)
+
