@@ -1,0 +1,3 @@
+Codigo,NombreMedicamento,TipoMedicamento
+2,Grifinil,Jarabe
+1,Test,eeeee

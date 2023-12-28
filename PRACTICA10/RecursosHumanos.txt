@@ -1,0 +1,4 @@
+Codigo,NombreApellido,Cargo,Especialidad
+2,Juan,Interno,Terere
+3,Jorge,Marketing,Marketing
+1,Marcos,Vendedor,Motocicletas

@@ -49,9 +49,11 @@ Repositorio de mis asignaciones de la materia de Lenguaje de Programacion
 
 ## [Practica 9 Netbeans (Carpeta de proyecto)](PRACTICA09)
 
-1. Proyecto expandido a 8 productos
+## [Practica Calculadora](CALCULADORA)
 
-## [Practica 10 Calculadora](PRACTICA10)
+1. [Calculadora.java](CALCULADORA/Calculadora.java)
 
-1. [Calculadora.java](PRACTICA10/Calculadora.java)
+## [Practica 10 Netbeans (Carpeta de proyecto)](PRACTICA10)
+
+
 

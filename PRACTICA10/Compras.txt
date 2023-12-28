@@ -1,0 +1,2 @@
+codigoCompras,nombreProducto,DescripcionProducto,Precio1,Souvenir,Canasta navidad,95000
+1,Bebida,CocaCola,5000
